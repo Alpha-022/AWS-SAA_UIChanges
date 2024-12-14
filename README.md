@@ -4,12 +4,6 @@ https://scribehow.com/shared/Creating_an_IAM_User_and_User_Group_in_AWS_Manageme
 **Small UI Change**: The **`Create User`** button has been replaced with a **`Next`** button. On the next page, users can optionally select tags before clicking the **`Create User`** button to complete the process.
 
 
-## Scribe no. 6
-https://scribehow.com/shared/Playing_with_EC2_Instance_Metadata_Service_and_Dynamic_Data__6NCryFcnSFWRrA8ooVRjuQ
-
-Lab not working
-
-
 ## Scribe no. 21
 
 https://scribehow.com/shared/Understand_AWS_Elastic_Load_Balancing_Listeners___tkzQLJhSiulmm_3Ro3kBw
@@ -36,10 +30,6 @@ https://scribehow.com/shared/Creating_your_first_AWS_Lambda_Function__yiSoRke_T3
 
 ![image](https://github.com/user-attachments/assets/f594df8b-4b9f-4def-b52f-e7889731c3eb)
 
-
-## Scribe no. 45 
-
-https://scribehow.com/shared/Exploring_Lambda_Functions__Monitoring_and_more__kwARer8ERkqkvd-kw14AOg
 
 **Massive UI Change**: This may require creating a new scribe from scratch.
 
